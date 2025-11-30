@@ -1,4 +1,4 @@
-#Sistema de Control de Gastos Personales con Persistencia JSON/CSV
+# Sistema de Control de Gastos Personales con Persistencia JSON/CSV
 
 ¡El sistema **más completo, profesional y educativo** para controlar tus finanzas personales que vas a encontrar hecho por un estudiante!
 
